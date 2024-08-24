@@ -1,14 +1,16 @@
-
 .ul {
-    margin-bottom: 30px;
-    background-color: green;
-    border: solid red 2px
+  margin-bottom: 30px;
+  background-color: green;
+  border: solid red 2px;
 }
 .li {
-    font-weight: 350;
-    height: 220px;
-    padding-top: 15px;
-    padding-left: 10px;
-    padding-bottom: 20px;
-    padding-right: 10px;
+  font-weight: 350;
+  height: 220px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+}
+.li {
+  list-style: none;
 }
